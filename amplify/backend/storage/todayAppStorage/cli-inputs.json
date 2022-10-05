@@ -1,0 +1,14 @@
+{
+  "resourceName": "todayAppStorage",
+  "policyUUID": "0f1860a4",
+  "bucketName": "today-app-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
